@@ -1,5 +1,5 @@
 import cv2
-from run_pose_detector import *
+from pose_detector import *
 
 
 def show_webcam(overlay_pose=False):
