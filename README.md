@@ -1,4 +1,4 @@
-# posedetection
+# pose_detection
 A Python implementation of the [pose estimation](https://www.tensorflow.org/lite/models/pose_estimation/overview) model in TensorFlow light.
 
 # Usage
